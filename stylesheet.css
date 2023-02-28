@@ -9,7 +9,11 @@ body {
     padding: 20px;
   }
 
-  h1, h2, h3 {
+  h1 {
+color:#bcf8db
+  }
+
+  h2, h3 {
     color: #3c3d3c;
   }
 
