@@ -25,10 +25,9 @@ body {
   aside {
     background-color: #9bd6bb;
     padding: 20px;
-    position: fixed;
-    top: 100px;
-    left: 0;
-    height: calc(100% - 100px);
+    position: absolute;
+   bottom: 190px;
+    left: 0.5%;
     width: 250px;
   }
 
