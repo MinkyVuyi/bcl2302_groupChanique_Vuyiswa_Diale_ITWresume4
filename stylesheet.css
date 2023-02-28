@@ -30,8 +30,8 @@ color:#bcf8db
   }
 
   article {
-    margin-left: 300px;
-    padding: 20px;
+    margin-right: 150px;
+    padding-top: 150px;
   }
 
   aside {
@@ -58,15 +58,10 @@ color:#bcf8db
 
   section {
     background-color: #76ba9a;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
+    padding-left: 3%;
   }
 
   footer {
     background-color: #057f46;
     text-align: center;
-    padding: 10px;
   }
